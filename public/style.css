@@ -112,8 +112,12 @@ ul {
 /* Messages */
 
 .chatArea {
-  height: 100%;
-  padding-bottom: 60px;
+    height: 100%;
+    padding-bottom: 60px;
+    background-image: url("http://madhacks.org/img/madhacks2048.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: center;
 }
 
 .messages {
